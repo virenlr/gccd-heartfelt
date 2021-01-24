@@ -5,6 +5,10 @@ This repository hosts the code used at the demo for Google Cloud's Professional 
 
 ### Getting Started
 
+You can view my session by clicking on the image below.
+
+[![AI Platform for Model Building, Training, and Deployment](https://img.youtube.com/vi/s2zhGLylii0/0.jpg)](https://youtu.be/s2zhGLylii0?t=12294 "AI Platform for Model Building, Training, and Deployment")
+
 Please download the dataset file titled _heartfelt_dataset.csv_ (don't rename it) as well as the Jupyter notebook corresponding to your environment. Use _Heartfelt (GCP)_ when running on Google Cloud's AI Platform and _Heartfelt (Colab)_ otherwise. You can run each cell one at a time and play around with the code.
 
 If you're feeling up to it, there are homework exercises at the end you can do. I would love to see what you make!
